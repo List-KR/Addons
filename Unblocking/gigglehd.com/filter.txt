@@ -1,0 +1,14 @@
+! Title: Allow advertisement of Gigglehd for AdGuard
+! Version: 2022.923.0
+! Expires: 1 day
+! Homepage: https://github.com/List-KR/Addons
+! License: https://github.com/List-KR/Addons/blob/master/LICENSE
+!
+! Version must be UTC format.
+!
+
+!#if adguard
+@@||gigglehd.com^$generichide
+@@||gigglehd.com^$specifichide
+@@||gigglehd.com^$urlblock
+!#endif
