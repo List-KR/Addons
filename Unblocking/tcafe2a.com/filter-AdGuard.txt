@@ -1,0 +1,10 @@
+! Title: 1st-party advertisement of tcafe2a.com Allowlist
+! Version: 2023.0207.0
+! Expires: 1 day
+! Homepage: https://github.com/List-KR/Addons
+! License: https://github.com/List-KR/Addons/blob/master/LICENSE
+!
+! Version must be UTC format.
+!
+tcafe2a.com#@#.side-event-img
+@@||tcafe2a.com/ad/
